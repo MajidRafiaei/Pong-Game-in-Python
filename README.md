@@ -20,10 +20,7 @@ PyCharm (on macOS) sometimes doesn’t render `turtle` graphics properly, especi
 
 ### 2. PyCharm virtual environment errors (Permission Denied)
 I also had problems setting up the Python interpreter in PyCharm.  
-It gave me errors like:
-
-```bash
-**"virtualenv: error: argument dest: the destination is not writable"
+It gave me errors like: ```bash "virtualenv: error: argument dest: the destination is not writable".
 
 ************************************************************************************************************************************************************
 During the days when even my closest friends stopped believing in me,  
